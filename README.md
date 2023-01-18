@@ -21,6 +21,8 @@ The KaseiCoin Crowdsale and Deployer Contracts were then complied.
 
 I then deployed and teseted the Crowdsale on the local block chain using Remix, MetaMask and Ganache.
 
+![screenshot](Delpoy.png)
+
 The following screenshots are showing successful testing results. Account balances after execution of sales. Review of supply of minted tokens and wei raised as a part of the sales shown below;
 
 ![screenshot](Successful_execution_1.png)
